@@ -350,7 +350,7 @@ msgstr "영웅"
 #: meta/templates/meta/heroes.html:12
 #, python-format
 msgid "Unpicked Heroes (%(unpicked_heroes_count)s of %(heroes_count)s)"
-msgstr ""
+msgstr "선택안된 영웅들"
 
 #: custom/templates/custom/team_heroes.html:85
 #: matches/templates/tournaments/tournament_overview.html:9
@@ -2376,7 +2376,7 @@ msgstr "페이지를 찾을 수 없음"
 #: templates/404.html:21
 msgctxt "404 page"
 msgid "There's nothing here"
-msgstr "여기 암것도 음쪄여"
+msgstr "아무것도 존재하지 않음"
 
 #: templates/404.html:24
 #, fuzzy
@@ -2410,7 +2410,7 @@ msgstr "검색"
 
 #: templates/base.html:275
 msgid "License agreement"
-msgstr ""
+msgstr "라이센스 계약"
 
 #: templates/base.html:278
 msgid ""
@@ -2427,7 +2427,7 @@ msgstr ""
 
 #: templates/base.html:286
 msgid "I understood"
-msgstr ""
+msgstr "알겠습니다"
 
 #: templates/base.html:328
 msgid "Help us localize the site!"
